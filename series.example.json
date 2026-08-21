@@ -1,0 +1,27 @@
+{
+  "mode": "automation",
+  "story_mode": "autonomous",
+  "story": "Generate learning videos for kids",
+  "title": "Learning Shorts",
+  "language": "en",
+  "llm_provider": "gemini",
+  "voice_provider": "edge",
+  "voice_id": "en-US-JennyNeural",
+  "music_mode": "none",
+  "music_provider": "library",
+  "music_mood": "Auto",
+  "music_path": null,
+  "art_style": "Modern Cartoon",
+  "image_provider": "huggingface",
+  "video_provider": "none",
+  "animated_hook": false,
+  "caption_style": "bold-stroke",
+  "effects": [
+    "kenburns"
+  ],
+  "storage_mode": "download",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 30,
+  "upload_to_youtube": false,
+  "youtube_privacy": "private"
+}

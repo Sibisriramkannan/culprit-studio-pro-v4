@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/*.db
+data/*.mp3
+output/*
+!output/.gitkeep
+uploads/*
+youtube_token.json
+client_secret.json
+
+client_secret*.json
