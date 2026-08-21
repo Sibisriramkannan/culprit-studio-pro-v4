@@ -1,0 +1,353 @@
+{
+  "llm": [
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "status": "ready"
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "status": "ready"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "status": "ready"
+    },
+    {
+      "id": "together",
+      "name": "Together",
+      "status": "ready"
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral",
+      "status": "ready"
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "status": "ready"
+    }
+  ],
+  "image": [
+    {
+      "id": "huggingface",
+      "name": "Hugging Face / FLUX",
+      "status": "ready"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI Image",
+      "status": "ready"
+    }
+  ],
+  "video": [
+    {
+      "id": "auto",
+      "name": "Auto AI Router",
+      "badge": "RECOMMENDED",
+      "status": "ready"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA Cosmos3 Nano",
+      "badge": "FREE ENDPOINT",
+      "status": "ready"
+    },
+    {
+      "id": "pixverse",
+      "name": "PixVerse V6",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax Hailuo",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "fal-wan22",
+      "name": "Wan via fal.ai",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "replicate",
+      "name": "Wan via Replicate",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "novita",
+      "name": "Wan via Novita",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "modelslab",
+      "name": "Wan via ModelsLab",
+      "badge": "AI VIDEO",
+      "status": "ready"
+    },
+    {
+      "id": "kling-direct",
+      "name": "Kling Direct",
+      "badge": "AUTH UPDATE NEEDED",
+      "status": "experimental"
+    },
+    {
+      "id": "json2video",
+      "name": "JSON2Video Cloud Render",
+      "badge": "COMPOSER",
+      "status": "experimental"
+    },
+    {
+      "id": "none",
+      "name": "Smart Motion",
+      "badge": "FREE FALLBACK",
+      "status": "ready"
+    }
+  ],
+  "art_styles": [
+    "Comic",
+    "Creepy Comic",
+    "Cartoon",
+    "Modern Cartoon",
+    "Family 3D",
+    "Mythology",
+    "Pixel Art",
+    "Watercolor Anime",
+    "Anime",
+    "Painting",
+    "Dark Fantasy",
+    "Toy Bricks",
+    "Polaroid",
+    "Realism",
+    "Fantastic",
+    "Cyberpunk Anime",
+    "Claymation",
+    "Paper Cutout",
+    "Storybook",
+    "Neon Noir",
+    "Watercolor",
+    "Low Poly",
+    "Retro 90s Anime",
+    "Chibi"
+  ],
+  "captions": [
+    {
+      "id": "bold-stroke",
+      "name": "Bold Stroke"
+    },
+    {
+      "id": "red-highlight",
+      "name": "Red Highlight"
+    },
+    {
+      "id": "sleek",
+      "name": "Sleek"
+    },
+    {
+      "id": "karaoke",
+      "name": "Karaoke"
+    },
+    {
+      "id": "majestic",
+      "name": "Majestic"
+    },
+    {
+      "id": "beast",
+      "name": "Beast"
+    },
+    {
+      "id": "elegant",
+      "name": "Elegant"
+    },
+    {
+      "id": "pixel",
+      "name": "Pixel"
+    },
+    {
+      "id": "clarity",
+      "name": "Clarity"
+    },
+    {
+      "id": "neon",
+      "name": "Neon Pop"
+    },
+    {
+      "id": "comic",
+      "name": "Comic Bubble"
+    },
+    {
+      "id": "minimal",
+      "name": "Minimal"
+    }
+  ],
+  "effects": [
+    {
+      "id": "kenburns",
+      "name": "Cinematic Motion",
+      "desc": "Smooth camera push/pan."
+    },
+    {
+      "id": "vignette",
+      "name": "Soft Vignette",
+      "desc": "Focus on subject."
+    },
+    {
+      "id": "filmgrain",
+      "name": "Film Grain",
+      "desc": "Cinematic texture."
+    },
+    {
+      "id": "glitch",
+      "name": "Glitch Pulse",
+      "desc": "Preview/UI preset; extend FFmpeg filter if selected."
+    },
+    {
+      "id": "shake",
+      "name": "Micro Shake",
+      "desc": "Preview/UI preset; extend FFmpeg filter if selected."
+    },
+    {
+      "id": "particles",
+      "name": "Magic Particles",
+      "desc": "Preview/UI preset for fantasy/kids."
+    }
+  ],
+  "voices": [
+    {
+      "id": "en-US-GuyNeural",
+      "name": "Guy",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-ChristopherNeural",
+      "name": "Christopher",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-EricNeural",
+      "name": "Eric",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-RogerNeural",
+      "name": "Roger",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-JennyNeural",
+      "name": "Jenny",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-AriaNeural",
+      "name": "Aria",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-MichelleNeural",
+      "name": "Michelle",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "en-US-AnaNeural",
+      "name": "Ana",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "FREE",
+      "language": "en"
+    },
+    {
+      "id": "ta-IN-ValluvarNeural",
+      "name": "Valluvar",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "TAMIL",
+      "language": "ta"
+    },
+    {
+      "id": "ta-IN-PallaviNeural",
+      "name": "Pallavi",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "TAMIL",
+      "language": "ta"
+    },
+    {
+      "id": "hi-IN-MadhurNeural",
+      "name": "Madhur",
+      "gender": "Male",
+      "provider": "edge",
+      "tag": "HINDI",
+      "language": "hi"
+    },
+    {
+      "id": "hi-IN-SwaraNeural",
+      "name": "Swara",
+      "gender": "Female",
+      "provider": "edge",
+      "tag": "HINDI",
+      "language": "hi"
+    }
+  ],
+  "music_moods": [
+    "Auto",
+    "Magical",
+    "Happy",
+    "Adventure",
+    "Funny",
+    "Cute",
+    "Epic",
+    "Emotional",
+    "Mystery",
+    "Suspense",
+    "Horror",
+    "Calm",
+    "Dreamy",
+    "Space",
+    "Nature",
+    "Retro",
+    "Lo-fi"
+  ],
+  "languages": [
+    {
+      "id": "en",
+      "name": "English"
+    },
+    {
+      "id": "ta",
+      "name": "Tamil"
+    },
+    {
+      "id": "hi",
+      "name": "Hindi"
+    }
+  ]
+}
