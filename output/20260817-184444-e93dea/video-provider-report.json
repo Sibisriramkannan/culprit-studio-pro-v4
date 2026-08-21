@@ -1,0 +1,48 @@
+{
+  "preferred": "nvidia",
+  "successful_provider": null,
+  "disabled_providers": [
+    "fal",
+    "minimax",
+    "modelslab",
+    "novita",
+    "pixverse",
+    "replicate"
+  ],
+  "failures": {
+    "nvidia": "nvidia network error: HTTPSConnectionPool(host='ai.api.nvidia.com', port=443): Max retries exceeded with url: /v1/infer (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2427)')))",
+    "pixverse": "pixverse: {'ErrCode': 500090, 'ErrMsg': 'Insufficient balance. Unable to generate video. Please top up your credits.', 'Resp': None}",
+    "minimax": "minimax: {'base_resp': {'status_code': 2049, 'status_msg': 'invalid api key'}}",
+    "fal": "fal HTTP 403: {\"detail\":\"User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing.\"}",
+    "replicate": "replicate HTTP 402: {\"title\":\"Insufficient credit\",\"detail\":\"You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.\",\"status\":402}\n",
+    "novita": "novita HTTP 403: {\"code\":403, \"reason\":\"NOT_ENOUGH_BALANCE\", \"message\":\"insufficient balance\", \"metadata\":{}}",
+    "modelslab": "modelslab: {'status': 'error', 'message': 'You need to be subscribed to a plan to continue, buy subscription from https://modelslab.com/pricing'}"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "provider": "local-ffmpeg",
+      "mode": "fallback"
+    },
+    {
+      "scene": 2,
+      "provider": "local-ffmpeg",
+      "mode": "fallback"
+    },
+    {
+      "scene": 3,
+      "provider": "local-ffmpeg",
+      "mode": "fallback"
+    },
+    {
+      "scene": 4,
+      "provider": "local-ffmpeg",
+      "mode": "fallback"
+    },
+    {
+      "scene": 5,
+      "provider": "local-ffmpeg",
+      "mode": "fallback"
+    }
+  ]
+}

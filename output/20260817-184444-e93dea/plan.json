@@ -1,0 +1,55 @@
+{
+  "title": "Zuzu Wonder Worlds - Channel Introduction",
+  "description": "Welcome to Zuzu Wonder Worlds! Join Zuzu the adorable baby panda on magical, colorful adventures designed for kids.",
+  "hashtags": [
+    "#ZuzuWonderWorlds",
+    "#BabyPanda",
+    "#KidsAnimation",
+    "#MagicalAdventure",
+    "#CartoonsForKids",
+    "#LearningIsFun"
+  ],
+  "character_bible": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.",
+  "scenes": [
+    {
+      "scene": 1,
+      "narration": "Hi, little Wonder Friends! 👋 I'm Zuzu the Panda!",
+      "caption": "Hi, little Wonder Friends!",
+      "visual_prompt": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. 3D animated children's style. Zuzu the baby panda with a round face, big friendly eyes, and soft black-and-white fur stands in a vibrant, sun-dappled magical forest with glowing colorful flowers and soft pastel lighting. Masterpiece, high quality, Pixar style.",
+      "motion_prompt": "Keep character identity exactly consistent: Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. Zuzu waves enthusiastically with a tiny paw and smiles brightly at the camera. Soft shimmering light particles float in the background. The camera gently pushes in toward Zuzu.",
+      "duration": 5.0
+    },
+    {
+      "scene": 2,
+      "narration": "Welcome to Zuzu Wonder Worlds, where every day is a brand-new magical adventure! 🌈",
+      "caption": "Welcome to Zuzu Wonder Worlds!",
+      "visual_prompt": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. 3D animated children's style. Zuzu the baby panda jumping happily in a magical fantasy meadow filled with giant glowing mushrooms, rainbow bridges, and fluffy pastel clouds under a bright blue sky.",
+      "motion_prompt": "Keep character identity exactly consistent: Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. Zuzu jumps up and down with joy, spinning around happily. A colorful rainbow sweeps across the sky in the background. The camera pans smoothly to follow Zuzu's joyful spin.",
+      "duration": 5.0
+    },
+    {
+      "scene": 3,
+      "narration": "We'll explore forests, oceans, space, and so many wonderful places together. ✨",
+      "caption": "Explore wonderful places together!",
+      "visual_prompt": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. 3D animated children's style. Zuzu the baby panda floating in a whimsical outer space setting surrounded by friendly glowing planets, sparkling stars, and a soft purple nebula.",
+      "motion_prompt": "Keep character identity exactly consistent: Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. Zuzu looks around in wide-eyed wonder, pointing a tiny paw toward a sparkly shooting star. Floating star dust drifts past the camera while the camera slowly orbits around Zuzu.",
+      "duration": 5.0
+    },
+    {
+      "scene": 4,
+      "narration": "Don't forget to Follow, Subscribe, and press the Bell 🔔 so you never miss a wonder!",
+      "caption": "Subscribe and press the Bell!",
+      "visual_prompt": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. 3D animated children's style. Zuzu the baby panda sitting happily next to a large glowing golden bell and a magical subscribe button icon in a bright, cheerful, colorful playroom environment.",
+      "motion_prompt": "Keep character identity exactly consistent: Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. Zuzu taps the glowing bell icon playfully with a tiny paw, winking at the viewer. Confetti and sparkling stars pop up around the icons. The camera zooms in slightly on Zuzu's cute face.",
+      "duration": 5.0
+    },
+    {
+      "scene": 5,
+      "narration": "See you in the next adventure! ✨🐼",
+      "caption": "See you in the next adventure!",
+      "visual_prompt": "Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. 3D animated children's style. Zuzu the baby panda standing in front of a magical glowing doorway shaped like a rainbow, surrounded by friendly smiling butterflies and soft glowing flora.",
+      "motion_prompt": "Keep character identity exactly consistent: Zuzu, a cute and lovable baby panda with a round adorable face, big expressive friendly eyes, soft fluffy black-and-white fur, tiny paws, and playful body language. Wears no clothes, highly expressive, warm, energetic, curious, and trustworthy. Visually consistent across all scenes.. Zuzu gives a sweet goodbye wave with both tiny paws and blows a magical kiss toward the camera. The background softly blurs into a warm bokeh effect as the camera gently pulls back.",
+      "duration": 5.0
+    }
+  ]
+}
