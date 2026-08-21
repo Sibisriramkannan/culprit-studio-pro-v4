@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff2fd1"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
+    <rect width="480" height="300" rx="26" fill="url(#g)"/>
+    <circle cx="360" cy="88" r="54" fill="#fff" opacity=".17"/>
+    <path d="M0 250 L120 130 L210 220 L310 120 L480 260 V300 H0Z" fill="#060916" opacity=".55"/>
+    <circle cx="210" cy="150" r="45" fill="#fff" opacity=".92"/><circle cx="195" cy="140" r="7"/><circle cx="225" cy="140" r="7"/>
+    <path d="M195 165 Q210 180 225 165" stroke="#111" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="24" y="42" fill="white" font-family="Arial" font-weight="700" font-size="24">Cyberpunk Anime</text>
+    </svg>
